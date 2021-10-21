@@ -1,4 +1,10 @@
 ### Hi there 👋
+This is my second account Github, my first account is [Riky Hidayat](https://github.com/rikyihidayat21)
+
+- 🌱 I’m currently learning Django, Fiber Go
+
+### Github Performance Overall
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdytxr&layout=compact) -
 
 <!--
 **hdytxr/hdytxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
