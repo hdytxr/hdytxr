@@ -1,7 +1,7 @@
 ### Hi there 👋
-This is my second account Github, my first account is [Riky Hidayat](https://github.com/rikyihidayat21)
+This is my second account Github, my first account is [Riky Hidayat](https://github.com/rikyhidayat21)
 
-- 🌱 I’m currently learning Django, Fiber Go
+- 🌱 I’m currently learning Python Django, Go Fiber
 
 ### Github Performance Overall
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdytxr&layout=compact) -
